@@ -23,6 +23,7 @@
    ```
 
 ## Annotations
+   ```
 
 C:.
 │   +not-found.tsx           # Page  to handle "not found" routes (404)
@@ -48,3 +49,4 @@ C:.
     └───profile              # Folder for the 'Profile' tab or section
             index.tsx        # Main page of the 'Profile' section
             _layout.tsx      # Layout specific to the 'Profile' section
+   ```
